@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
-<body style="background-image: url(https://source.unsplash.com/${obrazek}/600x300)">
-<blockquote>${citat}</blockquote>
+<body style="background-image: url(https://source.unsplash.com/${image}/600x300)">
+<blockquote>${quote}</blockquote>
 </body>
 </html>
